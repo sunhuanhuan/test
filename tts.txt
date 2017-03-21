@@ -1,3 +1,17 @@
 git init
 git add
-git commit
+git commit git commit -m 'xxxx'
+
+git status
+
+git diff
+
+git log
+
+git reset 回退某个版本
+
+git reflog 查看命令历史
+
+//工作区   暂存区
+
+//???
